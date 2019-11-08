@@ -1,5 +1,4 @@
 import requests
-import tablib
 
 def find_nth(string, substring, n):
    if (n == 1):
